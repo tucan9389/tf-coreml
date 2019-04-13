@@ -4,7 +4,7 @@ TensorFlow (TF) to CoreML Converter
 Dependencies
 -------------
 
-- tensorflow >= 1.5.0
+- tensorflow >= 1.5.0 (`not support TF 2.0 yet`)
 - coremltools >= 0.8
 - numpy >= 1.6.2
 - protobuf >= 3.1.0
